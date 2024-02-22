@@ -1,0 +1,24 @@
+{
+  "baseUrl": "http://the-internet.herokuapp.com/",
+  "cont":"#content",
+  "addRemove": "a[href=\"/add_remove_elements/\"]",
+  "contAddRemove":"Add/Remove Elements",
+  "basicAuth": "a[href=\"/basic_auth\"]",
+  "username": "admin",
+  "password": "admin",
+  "brokenImg": "a[href=\"/broken_images\"]",
+  "contBrokenImg": "Broken Images",
+  "chlgDOM": "a[href=\"/challenging_dom\"]",
+  "contChlgDOM": "Challenging DOM",
+  "checkBox":"a[href=\"/checkboxes\"]",
+  "contCheckBox":"Checkboxes",
+  "cntxMenu": "a[href=\"/context_menu\"]",
+  "contCntxMenu":"Context Menu",
+  "dgstAuth":"a[href=\"/digest_auth\"]",
+  "dspEl":"a[href=\"/disappearing_elements\"]",
+  "contDspEl":"Disappearing Elements"
+
+
+  
+
+}
