@@ -41,5 +41,8 @@
       "formatter": "cucumber-json-formatter",
       "output": "cypress/reports/cucumber/cucumber-json/cucumber-report.json"
     }
+  },
+  "dependencies": {
+    "jquery": "^3.7.1"
   }
 }
