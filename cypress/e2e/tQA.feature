@@ -51,7 +51,7 @@ Feature: Herokuapp
         Then I do right click "<cntxMenu>"
 
     @TestQA9
-    Scenario: Digest Authentication - it is not working
+    Scenario: 9 Digest Authentication - it is not working
     #     Given I visit "<dgstAuth>"
     #     # Then I check the message "<mesgBasicAuth>"
 
