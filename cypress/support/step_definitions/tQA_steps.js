@@ -51,10 +51,10 @@ function optimize() {
   }).as("optimizelyRequest");
 }
 
-Given("I open url {string}", () => {
+Given("I open url {string}", (url) => {
   cy.fixture("tQA.json").then((data) => {
     cy.log("Set Cookie").setCookie("optimizelyOptOut", "true");
-    cy.visit(data.baseUrl);
+    cy.visit(data[url]);
   });
 });
 
